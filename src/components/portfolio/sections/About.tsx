@@ -15,7 +15,7 @@ const About = () => {
             <div className="relative">
               <div className="absolute -top-4 -left-4 w-full h-full bg-indigo-100 rounded-xl"></div>
               <img
-                src="src/assets/img/profile.jpeg"
+                src="/profile.jpeg"
                 alt="About Me"
                 className="relative z-10 rounded-xl shadow-lg object-cover w-full h-[400px]"
               />

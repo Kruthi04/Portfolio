@@ -5,7 +5,6 @@ import {
   LinkedinIcon,
   TwitterIcon,
 } from "lucide-react";
-import profilePhoto from "../../../assets/img/photo1.jpeg";
 
 const Hero = ({ scrollToSection }) => {
   const [typedText, setTypedText] = useState("");
@@ -197,7 +196,7 @@ const Hero = ({ scrollToSection }) => {
               />
             </svg>
             <img
-              src="/src/assets/img/IMG_PRF_CLR.jpg"
+              src="/IMG_PRF_CLR.jpg"
               alt="Profile"
               className="w-32 h-32 rounded-full object-cover border-4 border-gray-800 shadow-lg relative z-10"
             />
