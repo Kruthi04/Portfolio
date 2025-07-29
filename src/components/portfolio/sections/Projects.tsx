@@ -156,7 +156,7 @@ const Projects = () => {
         "Custom programming language inspired by Java and C with custom grammar, operators, and robust parsing using DCG.",
       fullDescription:
         "Built a custom language interpreter using Definite Clause Grammar (DCG), featuring structured syntax and user-defined operators. Developed a complete toolchain—including lexical analyzer, parser, and runtime—to enable smooth command-line execution. Prioritized clean AST generation and robust error handling for reliable and maintainable code interpretation.",
-      image: "src/assets/img/devLangImg.png",
+      image: "/devLangImg.png",
       technologies: ["Python", "Prolog", "Git & GitHub", "VSCode", "ANTLR"],
       codeLink: "https://github.com/Kruthi04/DevLANG",
       category: "frontend",
@@ -168,7 +168,7 @@ const Projects = () => {
         "A machine learning-powered tool that identifies traditional Indian melodies by analyzing musical patterns and structures.",
       fullDescription:
         "Analyzed chord patterns using Python and MySQL to extract insights grounded in music theory, leveraging machine learning algorithms like K-Nearest Neighbors (KNN) and Random Forest for accurate classification. Processed and cleaned diverse musical datasets using pandas and NumPy, applying effective feature engineering and algorithm tuning to train models that achieved 96% accuracy. Integrated MySQL for structured data management and scalable storage, and combined audio pattern recognition with statistical modeling to decode complex harmonic progressions.",
-      image: "src/assets/img/musicalChordImg.png",
+      image: "/musicalChordImg.png",
       technologies: ["Python", "JavaScript", "MySQL", "pandas", "numpy"],
       codeLink:
         "https://github.com/Kruthi04/Machine-Learning-Driven-Musical-Chord-Detection",
@@ -181,7 +181,7 @@ const Projects = () => {
         "Semantic knowledge graph built with OWL and GraphDB to analyze crime patterns using advanced SPARQL queries.",
       fullDescription:
         "Modeled semantic ontologies in Protégé and refined RDF data using OntoRefine to ensure structured, meaningful representation of linked data. Queried GraphDB using SPARQL to extract complex relationships and insights from the knowledge base. Built an interactive frontend using React, delivering intuitive visualizations and seamless user experience. Deployed the application as a static web app on Microsoft Azure, enabling streamlined access and updates through CI/CD automation. Delivered real-time data insights through dynamic linked data visualizations and in-depth knowledge graph analysis, supporting data-driven decision-making and semantic understanding.",
-      image: "src/assets/img/image.png",
+      image: "/image.png",
       technologies: ["OWL Ontology", "GraphDB", "SPARQL", "React.js", "Azure"],
       codeLink: "https://github.com/Kruthi04/Integrated-Crime-Data-Analysis",
       category: "frontend",

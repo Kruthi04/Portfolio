@@ -69,7 +69,7 @@ const Portfolio = () => {
           <div className="flex justify-between items-center">
             <div className="flex items-start">
               <img
-                src="/src/assets/img/k-logo-final-preview.png"
+                src="/k-logo-final-preview.png"
                 alt="K Logo"
                 className="h-20 w-auto -mt-2"
               />

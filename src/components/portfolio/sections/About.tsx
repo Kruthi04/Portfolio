@@ -83,9 +83,9 @@ const About = () => {
             </div>
             <div className="mt-8">
               <a
-                href="/src/assets/documents/Kruthi Hosamane.pdf"
+                href="/Kruthi Hosamane.pdf"
                 download="Kruthi_Hosamane_resume.pdf"
-                className="inline-flex px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors shadow-md hover:shadow-lg items-center"
+                className="inline-flex px-6 py-3 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors shadow-md hover:shadow-lg flex items-center"
               >
                 <svg
                   className="w-5 h-5 mr-2"
